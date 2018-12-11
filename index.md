@@ -1,6 +1,6 @@
 ## Group Project Part 7: Final Deliverable
 
-Josef Los and Sofia Lange
+Sofia Lange and Josef Los
 
 Human Computer Interaction
 
@@ -8,6 +8,9 @@ Prof. Shaun Kane
 
 12/12/18
 
+##Contact Info
+Sofia Lange: 
+Josef Los: joros71435@gmail.com
 
 ## Group Projects in Order
 
@@ -17,26 +20,7 @@ Prof. Shaun Kane
 4. [Group Project 4: Paper Prototype](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject4%20-%20Paper%20Prototype.pdf)
 5. [Group Project 5: Usability Testing and Heuristics Evaluation](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject5%20-%20Usability-Heuristics.pdf)
 6. [Group Project 6: Storyboard and Final Prototype](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject6%20-%20Final%20Prototype.pdf)
+7. [Final Video]
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Figma Link
+https://www.figma.com/proto/RN0DcoRHyCoQG1hNX6JIZJzl/HCIProject-V2?node-id=0%3A1&scaling=min-zoom
