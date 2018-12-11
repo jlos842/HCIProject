@@ -11,7 +11,7 @@ Prof. Shaun Kane
 
 ## Group Projects in Order
 
-1. 
+1. [Group Project 1](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject1%20-%20Project%20Idea.pdf)
 
 
 ### Markdown
