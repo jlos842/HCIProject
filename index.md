@@ -22,7 +22,7 @@ Josef Los: joros71435@gmail.com
 4. [Group Project 4: Paper Prototype](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject4%20-%20Paper%20Prototype.pdf)
 5. [Group Project 5: Usability Testing and Heuristics Evaluation](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject5%20-%20Usability-Heuristics.pdf)
 6. [Group Project 6: Storyboard and Final Prototype](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject6%20-%20Final%20Prototype.pdf)
-7. [Final Video]
+7. [Final Video](https://youtu.be/P7ERCxT1xUI)
 
 ## Figma Link
 https://www.figma.com/proto/RN0DcoRHyCoQG1hNX6JIZJzl/HCIProject-V2?node-id=0%3A1&scaling=min-zoom
