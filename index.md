@@ -8,7 +8,7 @@ Prof. Shaun Kane
 
 12/12/18
 
-##Contact Info
+## Contact Info
 Sofia Lange: 
 Josef Los: joros71435@gmail.com
 
