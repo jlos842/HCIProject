@@ -10,6 +10,7 @@ Prof. Shaun Kane
 
 ## Contact Info
 Sofia Lange: 
+
 Josef Los: joros71435@gmail.com
 
 ## Group Projects in Order
