@@ -9,7 +9,7 @@ Prof. Shaun Kane
 12/12/18
 
 ## Contact Info
-Sofia Lange: 
+Sofia Lange: sola3340@colorado.edu
 
 Josef Los: joros71435@gmail.com
 
