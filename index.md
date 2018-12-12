@@ -24,5 +24,5 @@ Josef Los: joros71435@gmail.com
 6. [Group Project 6: Storyboard and Final Prototype](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject6%20-%20Final%20Prototype.pdf)
 7. [Group Project 7: Final Video](https://youtu.be/P7ERCxT1xUI)
 
-## Figma Link
-https://www.figma.com/proto/RN0DcoRHyCoQG1hNX6JIZJzl/HCIProject-V2?node-id=0%3A1&scaling=min-zoom
+
+[Final Figma Link](https://www.figma.com/proto/RN0DcoRHyCoQG1hNX6JIZJzl/HCIProject-V2?node-id=0%3A1&scaling=min-zoom)
