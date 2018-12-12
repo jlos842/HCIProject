@@ -15,7 +15,7 @@ Josef Los: joros71435@gmail.com
 
 ## Group Projects in Order
 
-1. Group Project 1: Idea [(Joe)](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject1%20-%20Project%20Idea.pdf)
+1. [Group Project 1: Idea (Joe)](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject1%20-%20Project%20Idea.pdf)
    , [(Sofia)](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/Project%20Proposal%20HCI.pdf)
 2. [Group Project 2: Project Plan](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject2%20-%20Project%20Plan.pdf)
 3. [Group Project 3: Design Research](https://github.com/jlos842/HCIProject/blob/master/HCIstuff/GroupProject3%20-%20Design%20Research.pdf)
